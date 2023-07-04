@@ -1,0 +1,31 @@
+[
+  {
+    "groupId": "120363140417380101@g.us",
+    "actived": true,
+    "number": [
+      "+55",
+      "553899564069"
+    ]
+  },
+  {
+    "groupId": "120363108656690946@g.us",
+    "actived": false,
+    "number": [
+      "+1"
+    ]
+  },
+  {
+    "groupId": "120363139179533268@g.us",
+    "actived": false,
+    "number": [
+      "553899564069"
+    ]
+  },
+  {
+    "groupId": "120363141484548367@g.us",
+    "actived": false,
+    "number": [
+      "+55"
+    ]
+  }
+]
